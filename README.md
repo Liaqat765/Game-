@@ -33,7 +33,7 @@ Shape Class:
 An abstract class that serves as the base class for the different shape classes. It includes common properties such as color and speed.
 
 Instructions<br>
-1- Run the BouncingBallGame class to start the application.
-2- Select a shape (Circle, Square, Triangle) from the dropdown menu.
-3- Choose a color for the selected shape using the "Choose Color" button.
+1- Run the BouncingBallGame class to start the application.<br>
+2- Select a shape (Circle, Square, Triangle) from the dropdown menu.<br>
+3- Choose a color for the selected shape using the "Choose Color" button.<br>
 4- Adjust the speed of the bouncing motion using the speed slider.
